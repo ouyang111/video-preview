@@ -1,3 +1,4 @@
 - insert:
     - id: video-preview
-      name: dsh-video-preview
+      name: '@ouyang111/dsh-video-preview'
+

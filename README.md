@@ -31,8 +31,13 @@ Whether a given codec actually plays depends on the Chromium build that ships th
 
 ## Install
 
-Install the bundle in the profile and open any video from the Files pane. A page refresh is needed once after installation so the client module is loaded.
+```sh
+dsh plugin --profile web add @ouyang111/dsh-video-preview
+```
+
+Or install this repository as a bundle in the profile. Then open any video from the Files pane; a page refresh is needed once after installation so the client module is loaded.
 
 ## License
 
 MIT.
+

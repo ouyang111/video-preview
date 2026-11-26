@@ -1,5 +1,5 @@
 {
-  "name": "dsh-video-preview",
+  "name": "@ouyang111/dsh-video-preview",
   "version": "0.1.0",
   "description": "Sidebar video previews for DeepSeek Harness: play mp4, m4v, webm, ogv and mov files inside the document preview pane.",
   "type": "module",
@@ -40,3 +40,4 @@
   ],
   "license": "MIT"
 }
+

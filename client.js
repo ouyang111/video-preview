@@ -1,5 +1,5 @@
 window.__ModuleLoader__.load({
-  id: 'dsh-video-preview',
+  id: '@ouyang111/dsh-video-preview',
   factory(require) {
     const React = require('react');
     const h = React.createElement;
@@ -165,3 +165,4 @@ window.__ModuleLoader__.load({
     };
   },
 });
+
