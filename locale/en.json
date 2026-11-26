@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Video preview",
+    "description": "Play mp4, m4v, webm, ogv and mov files inside the Sidebar document preview with native playback controls. Clicking a video file in the Files pane opens it in the preview pane instead of showing the unsupported-format message. The preview reads the whole file into memory first, so files above the Host's preview size cap still fall back to the unsupported message."
+  }
+}
